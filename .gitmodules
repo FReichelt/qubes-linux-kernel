@@ -11,3 +11,6 @@
 [submodule "v4l2loopback"]
 	path = v4l2loopback
 	url = https://github.com/umlaeute/v4l2loopback
+[submodule "linux-surface"]
+	path = linux-surface
+	url = https://github.com/linux-surface/linux-surface
